@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/jaydenschulz09/ticrm.png?label=ready&title=Ready)](https://waffle.io/jaydenschulz09/ticrm)
 # OroCRM Application
 
 Welcome to OroCRM the Open Source Customer Relationship Management (CRM) application.
